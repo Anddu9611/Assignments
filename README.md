@@ -5,3 +5,5 @@ this repository contins my assignments
 [assignment week4](https://github.com/Anddu9611/Assignments/blob/master/Assignment_week_4%20(1).ipynb)
 
 [assignment week5](https://github.com/Anddu9611/Assignments/blob/master/Assignment_week_5.ipynb)
+
+[assignment week6](https://github.com/Anddu9611/Assignments/blob/master/assignment4.ipynb)
