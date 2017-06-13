@@ -8,3 +8,5 @@ this repository contins my assignments
 
 [assignment week6](https://github.com/Anddu9611/Assignments/blob/master/assignment4.ipynb)
 [assignment week8](https://github.com/Anddu9611/Assignments/blob/master/assignment5.ipynb)
+
+[Final python assignment](https://github.com/Anddu9611/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
